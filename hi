@@ -1,0 +1,7 @@
+E-Commerce Application
+• Service: CartService to manage the shopping cart.
+• Components: ProductListComponent, CartComponent.
+• Interaction:
+• ProductListComponent uses CartService to add products.
+• CartComponent uses CartService to display cart items and total price.
+This approach demonstrates real-world use of components, templates, services, and dependency injection for scalable applications.
