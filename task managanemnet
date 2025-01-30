@@ -1,0 +1,12 @@
+Assignment Title: Task Management Dashboard
+Objective: Build a simple Task Management Dashboard using multiple components and
+modules where users can view, add (without forms), and update tasks dynamically.
+Requirements
+1. 2. 3. 4. 5. 6. 7. Use Angular Modules to organize the app (e.g., TaskModule, SharedModule).
+Use multiple components (e.g., TaskListComponent, TaskItemComponent,
+TaskActionsComponent).
+Tasks should have a name, status (Pending/In Progress/Completed), and priority.
+Tasks should be displayed in a list with an option to update status & delete.
+NO FORMS & NO ROUTING should be used.
+Use Angular Services to manage tasks.
+Use parent-child communication between components
